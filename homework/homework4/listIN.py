@@ -4,6 +4,7 @@ for i in range(5):
     num = float(input(f"Enter number {i + 1}: "))
     numbers.append(num)
 
+# Display the original list of numbers
 print("\nOriginal List of Numbers:", numbers)
 
 # Step 2: Sort the list
